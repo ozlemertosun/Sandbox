@@ -1,0 +1,42 @@
+{
+    "BriansOstebutik" : {
+        "varer" : [
+            {
+            "varenummer" : 543, 
+            "varenavn" : "ostehaps",
+            
+            "pris" : {
+                "pris" : 50, 
+                "valuta" : "dkk"
+            }, 
+
+            "antal" : 25, 
+            "beskrivelse" : "Gode i madpakken", 
+            "lagerbeholdning" : "2345", 
+            "billede" : "lillebror.jpeg", 
+            "tilbud" : true
+
+        },
+
+        {
+            "varenummer" : 544, 
+            "varenavn" : "Blåskimmel",
+            
+            "pris" : {
+                "pris" : 50, 
+                "valuta" : "euro"
+            }, 
+
+            "antal" : 20, 
+            "beskrivelse" : "Muggen ost", 
+            "lagerbeholdning" : "300", 
+            "billede" : [
+                "lillebror.jpeg", 
+                "lillebroremballage.jpeg"
+            ], 
+            "tilbud" : true
+
+        }
+    ]
+    }
+}
