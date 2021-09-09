@@ -8,12 +8,23 @@
             "farve" : "Brun", 
             "type" : "krøller"
         }, 
-        "højde" : {
+
+        "højde" : [ 
+            {
             "højde" : 162, 
             "måleenhed" : "cm"
         }, 
+            {
+            "højde" : 1620, 
+            "måleenhed" : "mm"
+        }], 
+
         "fornavn" : "Özlem", 
         "efternavn" : "Ertosun", 
         "sko"  : "Birkenstock"
-    } 
+    }, 
+    "kontakt" : {
+        "email" : "ozlemertosun@gmail.com", 
+        "telefon" : 71702328
+    }
 }
