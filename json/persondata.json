@@ -1,0 +1,19 @@
+
+{
+    "Özlem": {
+        "alder" : 31, 
+        "køn" : "Kvinde", 
+        "øjenfarve" : "Brun",
+        "hår" : {
+            "farve" : "Brun", 
+            "type" : "krøller"
+        }, 
+        "højde" : {
+            "højde" : 162, 
+            "måleenhed" : "cm"
+        }, 
+        "fornavn" : "Özlem", 
+        "efternavn" : "Ertosun", 
+        "sko"  : "Birkenstock"
+    } 
+}
